@@ -29,6 +29,18 @@ Custom SQL compiler in pure TypeScript that runs in-browser on top of IndexedDB.
 ### [qsub](https://github.com/prasenjeet-symon/qsub)
 Quick subtitles tool with word-level timestamps using Whisper. Features SRT/VTT/JSON output, 5 model sizes, and CLI interface. Built with Python, PyTorch, and whisper-timestamped.
 
+### [bookmark-manager](https://github.com/prasenjeet-symon/bookmark-manager)
+Full-stack content manager with React, Vite, and Tailwind CSS. Features RxJS for reactive state management and backend API using Express and Prisma ORM to handle large datasets efficiently.
+
+### [cvworld](https://github.com/prasenjeet-symon/cvworld)
+Dockerized CV management platform built with Node.js, MySQL, and Firebase. Features Razorpay integration for premium plan subscriptions and email notifications via Resend API.
+
+### [sculify-inc](https://github.com/prasenjeet-symon/sculify-inc)
+My first SaaS startup ("Shopify for Schools") - comprehensive ERP system for educational institutions with Firebase/GCP backend. Managed full product lifecycle from ideation to B2B sales.
+
+### [fanszila](https://github.com/prasenjeet-symon/fanszila)
+Fan engagement platform with Firebase backend, Razorpay payment integration, and real-time messaging. Features Firebase callable functions for order generation and payment verification.
+
 ---
 
 ## Contact
