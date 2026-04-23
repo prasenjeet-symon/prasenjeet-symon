@@ -1,58 +1,41 @@
-# Hi there, I'm Prasenjeet Symon! 👋
+# Hi there, I'm Prasenjeet Kumar! 👋
 
 ## About Me
 
-During my first year, I began developing my childhood dream project named **Sculify**, a school management platform. It was a SaaS software designed for both small and large schools. Similar to Shopify, but tailored for schools, I served as the CTO and Founder alongside five team members. My responsibilities extended beyond the technical aspects to include marketing and direct sales, coordinating with over 100 field agents of Sculify. Ultimately, I sold Sculify and chose to freelance for several years to broaden my experience across various projects and technologies.
+I'm a **Principal Software Engineer** and experienced founder with 5+ years of building scalable SaaS platforms and leading technical teams.
 
-## Interests
+- 🔭 Currently building high-performance microservices at **OrgOrbit** (Principal Software Engineer)
+- 🚀 Previously founded **Sculify** ("Shopify for Schools") - managed entire product lifecycle from ideation to B2B sales
+- 💡 Founding Engineer at OrgOrbit - transformed Figma prototype to revenue-generating SaaS platform
+- ⚡ Passionate about algorithmic efficiency, open-source contribution, and engineering excellence
 
-- ❤️ Love open-source
-- 🌍 Travelling
-- 📚 Learning new technology
-- 🛠️ Improving my management skills
+### Technical Expertise
 
-## Skills
-
-- **UI/UX**
-- **Full-stack Engineer**
-- **Mobile Development**
-- **Database Architect**
-- **System Design**
-- **DevOps**
-
-## Programming Languages
-
-- JavaScript
-- TypeScript
-- Go
-- Rust
-- Dart
-- SQL
-- Python
-- PHP
-- Java
-- C++
-- Ruby
-
-## Frameworks
-
-- Angular
-- Express.js
-- ReactJS
-- Vue.js
-- Flutter
-- SolidJS
-- Capacitor
-- Ionic
-- React Native
+- **Languages**: TypeScript, JavaScript (ES6+), Dart, PHP, SQL
+- **Frontend**: Flutter (iOS/Android), React.js, Angular, Ionic, Tailwind CSS, RxJS
+- **Backend**: Node.js, Express.js, Laravel, MySQL, MongoDB, Redis, ClickHouse, Kafka
+- **DevOps & Cloud**: Docker, Kubernetes, CI/CD (GitHub Actions), Google Cloud Platform (GCP)
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prasenjeet-symon&show_icons=true&theme=radical)
+## Featured Projects
+
+### [Shipli AI](https://github.com/prasenjeet-symon/intellectia) 
+AI-powered CLI tool to audit Flutter codebases for App Store/Google Play compliance, code quality, and security. Features built-in Model Context Protocol (MCP) server for direct audits within AI assistants.
+
+### [indexed-sql](https://github.com/prasenjeet-symon/indexed-sql)
+Custom SQL compiler in pure TypeScript that runs in-browser on top of IndexedDB. Demonstrates deep algorithmic understanding (pre-LLM/AI era).
 
 ---
 
-Feel free to reach out to me! I'm always open to collaborating on interesting projects and learning new things.
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prasenjeet-kumar-0b160384/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prasenjeet-kumar)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:prasenjeetsymon@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-purple)](https://twitter.com/Prasenjeetsymon)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read-gray)](https://dev.to/prasenjeetsymon)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjeet-symon&show_icons=true&theme=radical&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjeet-symon&layout=compact&theme=radical)
