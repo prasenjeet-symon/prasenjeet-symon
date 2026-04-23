@@ -26,6 +26,9 @@ AI-powered CLI tool to audit Flutter codebases for App Store/Google Play complia
 ### [indexed-sql](https://github.com/prasenjeet-symon/indexed-sql)
 Custom SQL compiler in pure TypeScript that runs in-browser on top of IndexedDB. Demonstrates deep algorithmic understanding (pre-LLM/AI era).
 
+### [qsub](https://github.com/prasenjeet-symon/qsub)
+Quick subtitles tool with word-level timestamps using Whisper. Features SRT/VTT/JSON output, 5 model sizes, and CLI interface. Built with Python, PyTorch, and whisper-timestamped.
+
 ---
 
 ## Contact
