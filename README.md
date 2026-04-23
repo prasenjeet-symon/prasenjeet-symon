@@ -18,7 +18,7 @@ I'm a **Principal Software Engineer** and experienced founder with 5+ years of b
 - **Databases**: MySQL, MongoDB, Redis, ClickHouse, IndexedDB
 - **Data Pipeline**: Kafka, Event Streaming, Real-time Processing
 - **DevOps & Cloud**: Docker, Kubernetes, CI/CD (GitHub Actions), Google Cloud Platform (GCP)
-- **AI/ML**: Whisper Timestamped, Gemini, Claude, MCP (Model Context Protocol)
+- **AI/ML**: Claude Code, Cursor, MCP (Model Context Protocol), AI-powered tooling
 
 ---
 
