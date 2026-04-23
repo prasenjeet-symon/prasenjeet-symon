@@ -11,10 +11,14 @@ I'm a **Principal Software Engineer** and experienced founder with 5+ years of b
 
 ### Technical Expertise
 
-- **Languages**: TypeScript, JavaScript (ES6+), Dart, PHP, SQL
-- **Frontend**: Flutter (iOS/Android), React.js, Angular, Ionic, Tailwind CSS, RxJS
-- **Backend**: Node.js, Express.js, Laravel, MySQL, MongoDB, Redis, ClickHouse, Kafka
+- **Languages**: TypeScript, JavaScript (ES6+), Dart, PHP, SQL, Python
+- **Architecture**: Microservices, Event-Driven Architecture, RESTful APIs, System Design, OOP
+- **Frontend**: Flutter (iOS/Android), React.js, Angular, Ionic, Tailwind CSS, RxJS, Vite
+- **Backend**: Node.js, Express.js, Laravel, Firebase, Prisma ORM
+- **Databases**: MySQL, MongoDB, Redis, ClickHouse, IndexedDB
+- **Data Pipeline**: Kafka, Event Streaming, Real-time Processing
 - **DevOps & Cloud**: Docker, Kubernetes, CI/CD (GitHub Actions), Google Cloud Platform (GCP)
+- **AI/ML**: Whisper Timestamped, Gemini, Claude, MCP (Model Context Protocol)
 
 ---
 
