@@ -4,9 +4,10 @@
 
 I'm a **Principal Software Engineer** and experienced founder with 5+ years of building scalable SaaS platforms and leading technical teams.
 
-- 🔭 Currently building high-performance microservices at **OrgOrbit** (Principal Software Engineer)
+- 🔭 Currently building high-performance microservices at **OrgOrbit** (Principal Software Engineer) - leading engineering team and establishing CI/CD pipelines
 - 🚀 Previously founded **Sculify** ("Shopify for Schools") - managed entire product lifecycle from ideation to B2B sales
-- 💡 Founding Engineer at OrgOrbit - transformed Figma prototype to revenue-generating SaaS platform
+- 📦 Led full-cycle development of 4 SaaS products (Sculify, Fanszila, Bookmark Manager, CV World)
+- 💡 Founding Engineer at OrgOrbit - transformed Figma prototype to revenue-generating SaaS platform serving multiple organizations
 - ⚡ Passionate about algorithmic efficiency, open-source contribution, and engineering excellence
 
 ### Technical Expertise
@@ -22,6 +23,18 @@ I'm a **Principal Software Engineer** and experienced founder with 5+ years of b
 
 ---
 
+## GitHub Stats
+
+| Stat | Value |
+|------|-------|
+| **Public Repos** | 28 |
+| **Gists** | 51 |
+| **Followers** | 9+ |
+| **Location** | Patna, India |
+| **Website** | [dev.to/prasenjeetsymon](https://dev.to/prasenjeetsymon) |
+
+---
+
 ## Featured Projects
 
 ### [Shipli AI](https://github.com/prasenjeet-symon/intellectia) 
@@ -31,7 +44,7 @@ AI-powered CLI tool to audit Flutter codebases for App Store/Google Play complia
 Custom SQL compiler in pure TypeScript that runs in-browser on top of IndexedDB. Demonstrates deep algorithmic understanding (pre-LLM/AI era).
 
 ### [qsub](https://github.com/prasenjeet-symon/qsub)
-Quick subtitles tool with word-level timestamps using Whisper. Features SRT/VTT/JSON output, 5 model sizes, and CLI interface. Built with Python, PyTorch, and whisper-timestamped.
+Quick subtitles tool with word-level timestamps using Whisper. Features SRT/VTT/JSON output, 5 model sizes, and CLI interface. Built with Python and PyTorch.
 
 ### [bookmark-manager](https://github.com/prasenjeet-symon/bookmark-manager)
 Full-stack content manager with React, Vite, and Tailwind CSS. Features RxJS for reactive state management and backend API using Express and Prisma ORM to handle large datasets efficiently.
