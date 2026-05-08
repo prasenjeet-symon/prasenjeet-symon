@@ -1,14 +1,14 @@
-# Hi there, I'm Prasenjeet Kumar! 👋
+# Hi there, I'm Prasenjeet Kumar!
 
 ## About Me
 
 I'm a **Principal Software Engineer** and experienced founder with 5+ years of building scalable SaaS platforms and leading technical teams.
 
-- 🔭 Currently building high-performance microservices at **OrgOrbit** (Principal Software Engineer) - leading engineering team and establishing CI/CD pipelines
-- 🚀 Previously founded **Sculify** ("Shopify for Schools") - managed entire product lifecycle from ideation to B2B sales
-- 📦 Led full-cycle development of 4 SaaS products (Sculify, Fanszila, Bookmark Manager, CV World)
-- 💡 Founding Engineer at OrgOrbit - transformed Figma prototype to revenue-generating SaaS platform serving multiple organizations
-- ⚡ Passionate about algorithmic efficiency, open-source contribution, and engineering excellence
+- Currently building high-performance microservices at **OrgOrbit** (Principal Software Engineer) - leading engineering team and establishing CI/CD pipelines
+- Previously founded **Sculify** ("Shopify for Schools") - managed entire product lifecycle from ideation to B2B sales
+- Led full-cycle development of 4 SaaS products (Sculify, Fanszila, Bookmark Manager, CV World)
+- Founding Engineer at OrgOrbit - transformed Figma prototype to revenue-generating SaaS platform serving multiple organizations
+- Passionate about algorithmic efficiency, open-source contribution, and engineering excellence
 
 ### Technical Expertise
 
