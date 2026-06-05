@@ -37,7 +37,10 @@ I'm a **Principal Software Engineer** and experienced founder with 5+ years of b
 
 ## Featured Projects
 
-### [Shipli AI](https://github.com/prasenjeet-symon/intellectia) 
+### [ogcode](https://github.com/prasenjeet-symon/ogcode) ⭐ 121
+The browser-native coding agent that runs entirely on your machine. Plans features, executes in parallel across git branches, and remembers everything. One binary, zero cloud dependencies — self-hosted and model-agnostic. Built in Go with an embedded React web UI. Supports Claude, GPT, OpenRouter, or local Ollama models. Features Plan Mode with Kanban board, parallel task execution via git worktrees, and agentic knowledge graph with ~70% token savings.
+
+### [Shipli AI](https://github.com/prasenjeet-symon/shipli-ai) 
 AI-powered CLI tool to audit Flutter codebases for App Store/Google Play compliance, code quality, and security. Features built-in Model Context Protocol (MCP) server for direct audits within AI assistants.
 
 ### [indexed-sql](https://github.com/prasenjeet-symon/indexed-sql)
