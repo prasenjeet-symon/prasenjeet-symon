@@ -65,7 +65,7 @@ Fan engagement platform with Firebase backend, Razorpay payment integration, and
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prasenjeet-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prasenjeet-kumar-0b160384/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:prasenjeetsymon@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-purple)](https://twitter.com/Prasenjeetsymon)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read-gray)](https://dev.to/prasenjeetsymon)
