@@ -25,13 +25,11 @@ I'm a **Principal Software Engineer** and experienced founder with 5+ years of b
 
 ## GitHub Stats
 
-| Stat | Value |
-|------|-------|
-| **Public Repos** | 28 |
-| **Gists** | 51 |
-| **Followers** | 9+ |
-| **Location** | Patna, India |
-| **Website** | [dev.to/prasenjeetsymon](https://dev.to/prasenjeetsymon) |
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprasenjeet-symon&query=%24.public_repos&label=Public%20Repos&color=blue&style=flat-square)](https://github.com/prasenjeet-symon?tab=repositories)
+[![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprasenjeet-symon&query=%24.public_gists&label=Gists&color=blueviolet&style=flat-square)](https://gist.github.com/prasenjeet-symon)
+[![Followers](https://img.shields.io/github/followers/prasenjeet-symon?label=Followers&color=success&style=flat-square)](https://github.com/prasenjeet-symon?tab=followers)
+
+📍 **Location**: Patna, India &nbsp;•&nbsp; 🌐 **Website**: [dev.to/prasenjeetsymon](https://dev.to/prasenjeetsymon)
 
 ---
 
