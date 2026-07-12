@@ -37,8 +37,11 @@ I'm a **Principal Software Engineer** and experienced founder with 5+ years of b
 
 ## Featured Projects
 
-### [ogcode](https://github.com/prasenjeet-symon/ogcode) ⭐ 121
+### [ogcode](https://github.com/prasenjeet-symon/ogcode)
 The browser-native coding agent that runs entirely on your machine. Plans features, executes in parallel across git branches, and remembers everything. One binary, zero cloud dependencies — self-hosted and model-agnostic. Built in Go with an embedded React web UI. Supports Claude, GPT, OpenRouter, or local Ollama models. Features Plan Mode with Kanban board, parallel task execution via git worktrees, and agentic knowledge graph with ~70% token savings.
+
+### [dblm](https://github.com/prasenjeet-symon/dblm)
+Talk to your databases in plain English. A single-binary CLI written in Go that connects to Postgres, MySQL, SQLite, MongoDB, ClickHouse, and REST APIs (via OpenAPI/Swagger), indexes their schemas, and uses LLMs to translate natural-language questions into safe, validated, read-only queries. Ships a master/worker broker (role-based mTLS) so teams can share one machine's database connections over the network without ever exposing DSNs. Features cross-database query modules, reusable parameterized query templates (fassad), smart summarization, self-healing queries, audit logging, ACLs, a horizontally scalable stateless broker fleet, and an embeddable React NLQ chat UI (@dblm/react).
 
 ### [Shipli AI](https://github.com/prasenjeet-symon/shipli-ai) 
 AI-powered CLI tool to audit Flutter codebases for App Store/Google Play compliance, code quality, and security. Features built-in Model Context Protocol (MCP) server for direct audits within AI assistants.
